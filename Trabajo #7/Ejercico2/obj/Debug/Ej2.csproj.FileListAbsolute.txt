@@ -1,0 +1,8 @@
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ej2\bin\Debug\Ej2.exe.config
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ej2\bin\Debug\Ej2.exe
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ej2\bin\Debug\Ej2.pdb
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ej2\obj\Debug\Ej2.csproj.AssemblyReference.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ej2\obj\Debug\Ej2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ej2\obj\Debug\Ej2.csproj.CoreCompileInputs.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ej2\obj\Debug\Ej2.exe
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ej2\obj\Debug\Ej2.pdb
