@@ -1,0 +1,8 @@
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ejercico5\bin\Debug\Ejercico5.exe.config
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ejercico5\bin\Debug\Ejercico5.exe
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ejercico5\bin\Debug\Ejercico5.pdb
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ejercico5\obj\Debug\Ejercico5.csproj.AssemblyReference.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ejercico5\obj\Debug\Ejercico5.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ejercico5\obj\Debug\Ejercico5.csproj.CoreCompileInputs.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ejercico5\obj\Debug\Ejercico5.exe
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Ejercico5\obj\Debug\Ejercico5.pdb

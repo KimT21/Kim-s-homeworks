@@ -1,0 +1,8 @@
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Trabajo7_cSharp\obj\Debug\Trabajo7_cSharp.csproj.AssemblyReference.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Trabajo7_cSharp\obj\Debug\Trabajo7_cSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Trabajo7_cSharp\obj\Debug\Trabajo7_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Trabajo7_cSharp\bin\Debug\Trabajo7_cSharp.exe.config
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Trabajo7_cSharp\bin\Debug\Trabajo7_cSharp.exe
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Trabajo7_cSharp\bin\Debug\Trabajo7_cSharp.pdb
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Trabajo7_cSharp\obj\Debug\Trabajo7_cSharp.exe
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Modulo programación de aplicaciones infórmaticas\Homeworks\Trabajo #7 C Sharp\Trabajo7\Trabajo7_cSharp\obj\Debug\Trabajo7_cSharp.pdb
