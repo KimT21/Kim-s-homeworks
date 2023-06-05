@@ -1,0 +1,15 @@
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\bin\Debug\netstandard2.0\Entidad.dll
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\bin\Debug\netstandard2.0\Entidad.pdb
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TcT569nqrjZMxiaNjCu67iHk3PMjzKYn21bkkpmM8I5xp/B8A1Z6HVGCA+iWgJOXIzgeEnqXFMW6e7M1JHX/Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kimva\\OneDrive\\Documentos\\Programador de aplicaciones infórmaticas\\Trabajo 12\\Pract12\\LogicaNegocio\\LogicaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kimva\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kimva\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
