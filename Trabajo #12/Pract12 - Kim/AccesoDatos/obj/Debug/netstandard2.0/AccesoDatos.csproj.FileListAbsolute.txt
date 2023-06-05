@@ -1,0 +1,13 @@
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\bin\Debug\netstandard2.0\Entidad.dll
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\bin\Debug\netstandard2.0\Entidad.pdb
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CopyComplete
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb
