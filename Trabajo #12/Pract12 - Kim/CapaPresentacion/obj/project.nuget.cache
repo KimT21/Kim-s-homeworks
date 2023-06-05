@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KA9k5xXSJhBs4h4az+FPIiYK6uYlrlosJDmOkdCdoHrEn8Sch0Ti/UPFhtm6QClYIMLm/a6uACnQqW8/DXfNGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kimva\\OneDrive\\Documentos\\Programador de aplicaciones infórmaticas\\Trabajo 12\\Pract12\\CapaPresentacion\\CapaPresentacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kimva\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\kimva\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\kimva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\kimva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

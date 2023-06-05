@@ -1,0 +1,10 @@
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\Entidad\bin\Debug\netstandard2.0\Entidad.deps.json
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\Entidad\bin\Debug\netstandard2.0\Entidad.dll
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\Entidad\bin\Debug\netstandard2.0\Entidad.pdb
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\Entidad\obj\Debug\netstandard2.0\Entidad.csproj.AssemblyReference.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\Entidad\obj\Debug\netstandard2.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfo.cs
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\Entidad\obj\Debug\netstandard2.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\Entidad\obj\Debug\netstandard2.0\Entidad.dll
+C:\Users\kimva\OneDrive\Documentos\Programador de aplicaciones infórmaticas\Trabajo 12\Pract12\Entidad\obj\Debug\netstandard2.0\Entidad.pdb

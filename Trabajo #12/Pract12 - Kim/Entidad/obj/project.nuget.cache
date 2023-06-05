@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DW1NQUVfQYcSOyUGHh/JMSj4f/usOCbbLhRER2wNp/gzYS/m6NVuEo0dCCcUsgV8NRJNJy/yVwSG7NgvOrvm1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kimva\\OneDrive\\Documentos\\Programador de aplicaciones infórmaticas\\Trabajo 12\\Pract12\\Entidad\\Entidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kimva\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kimva\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
